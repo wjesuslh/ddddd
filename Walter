@@ -1,0 +1,13 @@
+[
+ {
+ "run": "21889815-7",
+ "nombre": "Walter",
+ "apellido": "López",
+ "direccion": "Inacap",
+ "fono": 123154865,
+ "correo":"walter.lopez06@inacapmail.cl",
+ "montoCredito": 126546,
+ "deuda":14253,
+ "tipo": 5
+ }
+]
